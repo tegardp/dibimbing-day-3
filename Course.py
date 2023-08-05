@@ -4,3 +4,7 @@ class Course:
 
     def get_course_name(self):
         return self.name
+
+    def set_course_name(self, name):
+        self.name = name
+

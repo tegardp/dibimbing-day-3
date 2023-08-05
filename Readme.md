@@ -9,3 +9,4 @@
 - [I Gusti Ngurah Gotama](https://github.com/tegardp/dibimbing-day-3)
 - [Nurul Fitri Febryani](https://github.com/nurulfitrife/dibimbing-day-3)
 - Sekar Krismaya Weni
+- [Muhammad Muhidin](https://github.com/MuhammadMuhidin/dibimbing-day-3)

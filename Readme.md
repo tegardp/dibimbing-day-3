@@ -2,6 +2,7 @@
 
 - [Tegar Dani Pratama](https://github.com/tegardp/dibimbing-day-3)
 - [Aulya Yarzuki](https://github.com/ayarzuki)
+- [Ferry Setefanus](https://github.com/ferrysetefanus)
 - [Gisela](https://github.com/gisela15)
 - [Topas Sagara](https://github.com/sagara428)
 - [Rizca Zahra](https://github.com/rizcazahra)

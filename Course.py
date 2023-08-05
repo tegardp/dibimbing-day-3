@@ -1,2 +1,3 @@
 class Course:
-    pass
+    def __init__(self, name) -> None:
+        self.name = name
